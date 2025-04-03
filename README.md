@@ -1,2 +1,2 @@
 # AFMVSC
-codes of AFMVSC for ACM MM
+codes of AFMVSC
